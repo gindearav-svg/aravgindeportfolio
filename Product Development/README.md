@@ -25,5 +25,5 @@ to prevent UV-A degradation of materials including wood, plastics, and plexiglas
 
 ## Key Outcome
 
-The team developed a working prototype and evaluated its potential for
+The team developed a physical prototype and evaluated its potential for
 commercialization within a $12B industrial coatings market, and presented our findings to industry judges.
